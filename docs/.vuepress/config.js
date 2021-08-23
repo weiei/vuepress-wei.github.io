@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/vuepress-wei.github.io/",
   // 博客名
   title: "FUTURE ◆ 未来",
   // 博客描述
