@@ -37,7 +37,7 @@ module.exports = {
     ],
     noteConfig: {
       // 背景图片
-      bg: "/dm.jpg",
+      bg: "dm.jpg",
       // 来创建左侧菜单
       nav: [
         // 通过以下方式可以获取到相应的文章内容
